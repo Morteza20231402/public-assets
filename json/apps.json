@@ -5,7 +5,7 @@
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/a0/cd/83a0cd76-ef34-d890-7b44-a1a9a17041c5/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/512x512bb.jpg",
     "link": "streisand://import/{url}",
     "os": ["iOS"],
-    "downloadLinks": {111111
+    "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/streisand/id6450534064"
     },
     "ShowInMenu": true
